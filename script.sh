@@ -1,2 +1,1 @@
-hello the world
-Try to test diff
+echo "Hello the world for test"
